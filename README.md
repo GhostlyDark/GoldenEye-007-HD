@@ -2,6 +2,8 @@
 
 GoldenEye 007 HD texture pack for GLideN64, made by **intermissionfb**. Font textures made by **GhostlyDark**.
 
+![](/ge007-hd.jpg)
+
 
 ## Links
 
