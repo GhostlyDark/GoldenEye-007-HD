@@ -1,0 +1,12 @@
+{
+    "authors" : [
+        "intermissionfb"
+    ],
+    "description" : "GoldenEye 007 HD texture pack",
+    "display_name" : "GoldenEye 007 HD",
+    "game_id" : "ge007",
+    "id" : "GoldenEye-007-HD",
+    "minimum_recomp_version" : "0.0.1",
+    "short_description" : "HD texture pack",
+    "version" : "0.0.0"
+}
