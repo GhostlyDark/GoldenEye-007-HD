@@ -1,6 +1,6 @@
 # GoldenEye 007 HD
 
-GoldenEye 007 HD texture pack for GLideN64, made by **intermissionfb**. Font textures made by **GhostlyDark**.
+GoldenEye 007 HD texture pack for GLideN64, created by **intermissionfb**. Font textures made by **GhostlyDark**, as well as HD textures for `GoldenEye with Mario Characters` ported from SM64 Reloaded.
 
 ![](/ge007-hd.jpg)
 
